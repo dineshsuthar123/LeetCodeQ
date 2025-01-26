@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be5cc21c-b4b9-4107-8239-f1ded2f61259" name="Changes" comment="" />
+    <list default="true" id="be5cc21c-b4b9-4107-8239-f1ded2f61259" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2127.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MaximumEmployeesMeeting.executor": "Run",
     "Application.Shifting_Letters_II.executor": "Run",
     "Application._1267.executor": "Run",
     "Application._1368.executor": "Run",
@@ -46,6 +50,7 @@
     "Application._2185.executor": "Run",
     "Application._2425.executor": "Run",
     "Application._2661.executor": "Run",
+    "Application._2948.executor": "Run",
     "Application._3042.executor": "Run",
     "Application._3223.executor": "Run",
     "Application._3Palindromic_Subsequences.executor": "Run",
