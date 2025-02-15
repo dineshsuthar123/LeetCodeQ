@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be5cc21c-b4b9-4107-8239-f1ded2f61259" name="Changes" comment="" />
+    <list default="true" id="be5cc21c-b4b9-4107-8239-f1ded2f61259" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_biweekly.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +67,7 @@
     "Application._802.executor": "Run",
     "Application._827.executor": "Run",
     "Application._916.executor": "Run",
+    "Application._biweekly.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
