@@ -4,20 +4,20 @@ import java.util.*;
 
 class TreeNode {
     int val;
-    TreeNode left, right;
+    TreeNode_1028 left, right;
     TreeNode(int val) { this.val = val; }
 }
 
 class FindElements {
     BitSet recoveredValues;
 
-    public FindElements(TreeNode root) {
+    public FindElements(TreeNode_1028 root) {
         root.val = 0;
         recoveredValues = new BitSet();
         recoverTree(root);
     }
 
-    private void recoverTree(TreeNode root) {
+    private void recoverTree(TreeNode_1028 root) {
         if (root == null) return;
         recoveredValues.set(root.val);
         if (root.left != null) {
@@ -37,10 +37,10 @@ class FindElements {
 
 public class _1261 {
     public static void main(String[] args) {
-        TreeNode root = new TreeNode(-1);
-        root.left = new TreeNode(-1);
-        root.right = new TreeNode(-1);
-        root.left.left = new TreeNode(-1);
+        TreeNode_1028 root = new TreeNode_1028(-1);
+        root.left = new TreeNode_1028(-1);
+        root.right = new TreeNode_1028(-1);
+        root.left.left = new TreeNode_1028(-1);
 
         FindElements findElements = new FindElements(root);
         System.out.println(findElements.find(1)); // Example usage
