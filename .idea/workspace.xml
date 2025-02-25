@@ -65,6 +65,7 @@
     "Application._3Palindromic_Subsequences.executor": "Run",
     "Application._802.executor": "Run",
     "Application._827.executor": "Run",
+    "Application._889.executor": "Run",
     "Application._916.executor": "Run",
     "Application._biweekly.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
