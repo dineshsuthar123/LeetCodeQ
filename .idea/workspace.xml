@@ -5,15 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be5cc21c-b4b9-4107-8239-f1ded2f61259" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/Shifting_Letters_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1261.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1267.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1368.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1408.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1415.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1462.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1524_2467.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1726.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1749_873.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1765.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1769.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1780.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1790.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1800.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_1980.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2161_2570_2460.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2364.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2425.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2493.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2657.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2658.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2661.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_2948.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3174.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_3Palindromic_Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_407.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_802.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_827.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_916.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daily_questions/_biweekly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Daily_questions" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -31,51 +91,53 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2rAtWLIf7BqvwD1dKn4bp5E5vcU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumEmployeesMeeting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shifting_Letters_II.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1261.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1267.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1368.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1408.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1462.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1765.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1800.executor&quot;: &quot;Run&quot;,
-    &quot;Application._1910.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2017.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2116.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2185.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2342.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2349.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2425.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2493.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2658.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2661.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2948.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3042.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3105.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3151.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3174.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3223.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3Palindromic_Subsequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application._802.executor&quot;: &quot;Run&quot;,
-    &quot;Application._827.executor&quot;: &quot;Run&quot;,
-    &quot;Application._889.executor&quot;: &quot;Run&quot;,
-    &quot;Application._916.executor&quot;: &quot;Run&quot;,
-    &quot;Application._biweekly.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LinkedList1.executor": "Run",
+    "Application.MaximumEmployeesMeeting.executor": "Run",
+    "Application.Shifting_Letters_II.executor": "Run",
+    "Application._1261.executor": "Run",
+    "Application._1267.executor": "Run",
+    "Application._1368.executor": "Run",
+    "Application._1408.executor": "Run",
+    "Application._1462.executor": "Run",
+    "Application._1765.executor": "Run",
+    "Application._1800.executor": "Run",
+    "Application._1910.executor": "Run",
+    "Application._2017.executor": "Run",
+    "Application._2116.executor": "Run",
+    "Application._2185.executor": "Run",
+    "Application._2342.executor": "Run",
+    "Application._2349.executor": "Run",
+    "Application._2425.executor": "Run",
+    "Application._2493.executor": "Run",
+    "Application._2658.executor": "Run",
+    "Application._2661.executor": "Run",
+    "Application._2948.executor": "Run",
+    "Application._3042.executor": "Run",
+    "Application._3105.executor": "Run",
+    "Application._3151.executor": "Run",
+    "Application._3174.executor": "Run",
+    "Application._3223.executor": "Run",
+    "Application._3Palindromic_Subsequences.executor": "Run",
+    "Application._802.executor": "Run",
+    "Application._827.executor": "Run",
+    "Application._889.executor": "Run",
+    "Application._916.executor": "Run",
+    "Application._biweekly.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
